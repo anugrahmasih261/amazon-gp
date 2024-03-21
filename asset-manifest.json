@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/amazon-gp/static/css/main.5b7973ae.chunk.css",
+    "main.js": "/amazon-gp/static/js/main.9fb5e0f4.chunk.js",
+    "main.js.map": "/amazon-gp/static/js/main.9fb5e0f4.chunk.js.map",
+    "runtime-main.js": "/amazon-gp/static/js/runtime-main.8a3af58f.js",
+    "runtime-main.js.map": "/amazon-gp/static/js/runtime-main.8a3af58f.js.map",
+    "static/js/2.ace104b0.chunk.js": "/amazon-gp/static/js/2.ace104b0.chunk.js",
+    "static/js/2.ace104b0.chunk.js.map": "/amazon-gp/static/js/2.ace104b0.chunk.js.map",
+    "static/js/3.e1b0dade.chunk.js": "/amazon-gp/static/js/3.e1b0dade.chunk.js",
+    "static/js/3.e1b0dade.chunk.js.map": "/amazon-gp/static/js/3.e1b0dade.chunk.js.map",
+    "index.html": "/amazon-gp/index.html",
+    "static/css/main.5b7973ae.chunk.css.map": "/amazon-gp/static/css/main.5b7973ae.chunk.css.map",
+    "static/js/2.ace104b0.chunk.js.LICENSE.txt": "/amazon-gp/static/js/2.ace104b0.chunk.js.LICENSE.txt",
+    "static/media/bags.9eadaa7f.png": "/amazon-gp/static/media/bags.9eadaa7f.png",
+    "static/media/banner.f6095659.jpg": "/amazon-gp/static/media/banner.f6095659.jpg",
+    "static/media/cart.8e0c1c06.svg": "/amazon-gp/static/media/cart.8e0c1c06.svg",
+    "static/media/cross.cf60e148.svg": "/amazon-gp/static/media/cross.cf60e148.svg",
+    "static/media/headphone.a04f993e.png": "/amazon-gp/static/media/headphone.a04f993e.png",
+    "static/media/jacket.a9449394.png": "/amazon-gp/static/media/jacket.a9449394.png",
+    "static/media/left-arrow-scroll.62b665bd.svg": "/amazon-gp/static/media/left-arrow-scroll.62b665bd.svg",
+    "static/media/left-arrow.68ab3a5f.svg": "/amazon-gp/static/media/left-arrow.68ab3a5f.svg",
+    "static/media/logo.478dc2a6.svg": "/amazon-gp/static/media/logo.478dc2a6.svg",
+    "static/media/man.ab45eb1d.png": "/amazon-gp/static/media/man.ab45eb1d.png",
+    "static/media/search-icon.10958753.svg": "/amazon-gp/static/media/search-icon.10958753.svg",
+    "static/media/shoes.72d37639.png": "/amazon-gp/static/media/shoes.72d37639.png",
+    "static/media/watch.d6bdda00.png": "/amazon-gp/static/media/watch.d6bdda00.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a3af58f.js",
+    "static/js/2.ace104b0.chunk.js",
+    "static/css/main.5b7973ae.chunk.css",
+    "static/js/main.9fb5e0f4.chunk.js"
+  ]
+}
